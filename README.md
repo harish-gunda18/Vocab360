@@ -19,19 +19,6 @@ Creating a Vocab 360 application using JavaScript, React Js, HTML, SCSS.
 * Run the Backend server using the command node server.js
 * Run the UI server using the command npm start
 
-# Contributors
-* Name: G.Harish Reddy
-* email: gunda.sa@northeastern.edu
-* NUID: 002981776
-* Name: K.V.P.Revanth
-* email: katha.r@northeastern.edu
-* NUID: 002981921
-* Name: K.Jashwanth Reddy
-* email: kamasani.j@northeastern.edu
-* NUID: 002988299
-* Name: M.Ridham 
-* email: mangukia.r@northeastern.edu
-* NUID: 002104722
 
 # Getting Started with Create React App
 
